@@ -1,0 +1,17 @@
+{
+  "name": "atom-project-switcher",
+  "main": "./lib/atom-project-switcher",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/atom-project-switcher",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-select-list": "0.7.1",
+    "prettier-eslint-cli": "^4.7.1",
+    "standard": "^11.0.1"
+  }
+}
