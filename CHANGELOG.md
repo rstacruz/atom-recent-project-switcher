@@ -1,3 +1,6 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## [v0.1.0]
+> Jul 22, 2018
+
+- Initial release.
+
+[v0.1.0]: https://github.com/rstacruz/atom-project-switcher/tree/v0.1.0
