@@ -1,10 +1,10 @@
 {
-  "name": "atom-project-switcher",
-  "main": "./lib/atom-project-switcher",
+  "name": "project-switcher",
+  "main": "./lib/index",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "repository": "https://github.com/atom/atom-project-switcher",
+  "repository": "https://github.com/rstacruz/atom-project-switcher",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

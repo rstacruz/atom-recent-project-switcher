@@ -8,7 +8,7 @@
           "submenu": [
             {
               "label": "Switch project...",
-              "command": "atom-project-switcher:switch-projcet"
+              "command": "project-switcher:switch-projcet"
             }
           ]
         }

@@ -1,0 +1,35 @@
+@import "ui-variables";
+
+.project-switcher-list-item {
+  & {
+    display: flex;
+    width: 100%;
+  }
+
+  & > .name,
+  & > .path {
+    display: block;
+  }
+
+  & > .name {
+    flex: 1 0 auto;
+    color: @text-color-highlight;
+  }
+
+  & > .name > .context {
+    color: @text-color-subtle;
+    font-weight: normal;
+  }
+
+  & > .name > .context::after {
+    content: '/';
+    margin: 0 0.2em 0 0.3em;
+  }
+
+  & > .path {
+    flex: 0 1 auto;
+    color: @text-color-subtle;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+}
