@@ -13,5 +13,8 @@
     "atom-select-list": "0.7.1",
     "prettier-eslint-cli": "^4.7.1",
     "standard": "^11.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "8.2.6"
   }
 }
