@@ -1,8 +1,0 @@
-{
-  "atom-workspace": {
-    "ctrl-alt-shift-p": "atom-project-switcher:activate"
-  },
-  "atom-text-editor.vim-mode-plus:not(.insert-mode), .tree-view, .results-view": {
-    ", p p": "atom-project-switcher:switch-project"
-  }
-}

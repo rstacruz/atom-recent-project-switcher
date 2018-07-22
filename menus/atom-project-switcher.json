@@ -1,22 +1,14 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-project-switcher",
-        "command": "atom-project-switcher:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-project-switcher",
+          "label": "Project switcher",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-project-switcher:toggle"
+              "label": "Switch project...",
+              "command": "atom-project-switcher:switch-projcet"
             }
           ]
         }
