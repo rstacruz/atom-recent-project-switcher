@@ -1,21 +1,38 @@
 {
-  "name": "project-switcher",
-  "main": "./lib/index",
+  "name": "recent-projects",
+  "description": "Switch between your recent projects in Atom, fast",
   "version": "0.1.0",
-  "description": "A short description of your package",
-  "keywords": [],
-  "repository": "https://github.com/rstacruz/atom-project-switcher",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+  "author": "Rico Sta. Cruz <rstacruz@users.noreply.github.com>",
+  "bugs": {
+    "url": "https://github.com/rstacruz/atom-recent-projects/issues"
   },
   "dependencies": {
     "atom-select-list": "0.7.1",
-    "ms": "2.1.1",
+    "ms": "2.1.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "8.2.6",
     "prettier-eslint-cli": "^4.7.1",
     "standard": "^11.0.1"
   },
-  "devDependencies": {
-    "babel-eslint": "8.2.6"
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/rstacruz/atom-recent-projects#readme",
+  "keywords": [
+    "projects",
+    "workspaces"
+  ],
+  "license": "MIT",
+  "main": "./lib/index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstacruz/atom-recent-projects.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

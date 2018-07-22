@@ -4,11 +4,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Project switcher",
+          "label": "Recent projects",
           "submenu": [
             {
               "label": "Switch project...",
-              "command": "project-switcher:switch-projcet"
+              "command": "recent-projects:switch-projcet"
             }
           ]
         }

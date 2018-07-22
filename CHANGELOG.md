@@ -3,4 +3,4 @@
 
 - Initial release.
 
-[v0.1.0]: https://github.com/rstacruz/atom-project-switcher/tree/v0.1.0
+[v0.1.0]: https://github.com/rstacruz/atom-recent-projects/tree/v0.1.0
