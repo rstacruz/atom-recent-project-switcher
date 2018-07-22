@@ -1,7 +1,7 @@
 {
   "name": "recent-project-switcher",
   "description": "Switch between your recent projects in Atom, fast",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Rico Sta. Cruz <rstacruz@users.noreply.github.com>",
   "bugs": {
     "url": "https://github.com/rstacruz/atom-recent-project-switcher/issues"
