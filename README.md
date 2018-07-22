@@ -1,6 +1,12 @@
 # project-switcher for Atom
 
-> Switch projects
+> Switch projects in Atom
+
+![image](https://user-images.githubusercontent.com/74385/43043029-c0bc1a7a-8dbc-11e8-914f-c32b77290721.png)
+
+## Usage
+
+After installing, bind `project-switcher:switch-project` to a key. You can also use the menu (`Packages` > `Project switcher` > `Switch project...`).
 
 ## Thanks
 
