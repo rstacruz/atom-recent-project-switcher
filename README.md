@@ -1,4 +1,4 @@
-# recent-projects for Atom
+# recent-project-switcher for Atom
 
 > Switch between your recent projects in Atom, fast
 
@@ -6,7 +6,7 @@
 
 ## Usage
 
-After installing, bind `recent-projects:switch-project` to a key. You can also use the menu (`Packages` > `Recent projects` > `Switch project...`).
+After installing, bind `recent-project-switcher:switch-project` to a key. You can also use the menu (`Packages` > `Recent project switcher` > `Switch project...`).
 
 ## Thanks
 

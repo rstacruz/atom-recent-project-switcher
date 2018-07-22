@@ -1,10 +1,10 @@
 {
-  "name": "recent-projects",
+  "name": "recent-project-switcher",
   "description": "Switch between your recent projects in Atom, fast",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "author": "Rico Sta. Cruz <rstacruz@users.noreply.github.com>",
   "bugs": {
-    "url": "https://github.com/rstacruz/atom-recent-projects/issues"
+    "url": "https://github.com/rstacruz/atom-recent-project-switcher/issues"
   },
   "dependencies": {
     "atom-select-list": "0.7.1",
@@ -21,16 +21,18 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/rstacruz/atom-recent-projects#readme",
+  "homepage": "https://github.com/rstacruz/atom-recent-project-switcher#readme",
   "keywords": [
+    "project switcher",
     "projects",
+    "recents",
     "workspaces"
   ],
   "license": "MIT",
   "main": "./lib/index",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rstacruz/atom-recent-projects.git"
+    "url": "https://github.com/rstacruz/atom-recent-project-switcher.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
